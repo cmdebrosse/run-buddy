@@ -13,4 +13,4 @@ https://cmdebrosse.github.io/run-buddy/
 ## Contribution
 Made with love, blood, sweat, and tears by Chuck DeBrosse
 
-### &copy 2019 Run Buddy, Inc
+### &copy; 2019 Run Buddy, Inc
