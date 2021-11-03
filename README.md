@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://cmdebrosse.github.io/run-buddy/
 
 ## Contribution
 Made with love, blood, sweat, and tears by Chuck DeBrosse
+
+### &copy 2019 Run Buddy, Inc
