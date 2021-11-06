@@ -32,7 +32,7 @@
 
         <!--hero/jumbotron-->
         <section class="hero">
-        <div class=hero-cta>
+        <div class="hero-cta">
           <h2>Start Building Habits</h2>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto esse inventore optio eveniet? Magni accusamus explicabo ratione dignissimos. Minus quos, laboriosam temporibus magnam illum mollitia eius suscipit. Velit, rem hic.
@@ -52,16 +52,21 @@
             <input type="tel" placeholder="Phone Number" name="phone" id="phone" class="form-input" />
             <p>
               Have you worked out with a trainer before?
-              <input type="radio" name="trainer-confirm" id="trainer-yes" />
-              <label for="trainer-yes"> Yes </label>
-              <input type="radio" name="trainer-confirm" id="trainer-no" />
-              <label for="trainer-no"> No </label>
+              <span class="radio-wrapper">
+                <input type="radio" name="trainer-confirm" id="trainer-yes" />
+                <label for="trainer-yes"> Yes </label>
+                <input type="radio" name="trainer-confirm" id="trainer-no" />
+                <label for="trainer-no"> No </label>
+              </span>
             </p>
+
             <p>
-              <label for="checkbox" >
-                I acknowledge that I am at least 18 years of age
-              </label>
-              <input type="checkbox" name="age-confirm" id="checkbox" />
+              <span class="checkbox-wrapper">
+                <label for="checkbox" >
+                  I acknowledge that I am at least 18 years of age
+                </label>
+                <input type="checkbox" name="age-confirm" id="checkbox" />
+              </span>
             </p>
             <button type="submit">
               Get running!
